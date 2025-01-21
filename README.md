@@ -80,4 +80,7 @@ El servidor estará corriendo en `http://localhost:8080`.
 
 Gracias a **Alura LATAM** y a **ORACLE** por ofrecer los recursos y la motivación para realizar este proyecto.
 
+## Badges
+
+![image alt](https://github.com/GabbyGeek/Foro-Hub/blob/main/Badge-Spring.png?raw=true)
 
